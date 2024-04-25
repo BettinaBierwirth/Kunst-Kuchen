@@ -648,3 +648,24 @@ div .buffer {
     }
 }
 
+
+/* mobile Schriften*/
+
+@media screen and (max-width: 767px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.4em;
+    }
+
+    .intro {
+        font-size: 1em;
+    }
+
+    .bold {
+        font-size: 1.2em;
+    }
+}
+
