@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Musik_icon">
+        <path d="M30.99,11.84C30.99,11.83 30.99,11.81 30.98,11.8C29.87,5.31 23.58,3.14 23.32,3.05C23.1,2.98 22.86,2.98 22.64,3.07L1.64,11.07C1.59,11.09 1.54,11.11 1.5,11.14C1.46,11.16 1.41,11.19 1.38,11.22C1.34,11.25 1.3,11.29 1.27,11.32C1.14,11.46 1.05,11.63 1.02,11.81C1.01,11.87 1,11.93 1,11.99L1,26C1,27.65 2.35,29 4,29L28,29C29.65,29 31,27.65 31,26L31,12C31,11.95 31,11.89 30.99,11.84ZM29,15L3,15L3,13L29,13L29,15ZM28,27L4,27C3.45,27 3,26.55 3,26L3,20L19.76,20L18.76,18L3,18L3,17L19.39,17L20.89,20L22.11,22.45C22.28,22.79 22.62,23 23,23C23.38,23 23.72,22.79 23.89,22.45L25.12,20L26.62,17L29,17L29,18L27.24,18L26.24,20L29,20L29,26C29,26.55 28.55,27 28,27Z" style="fill:rgb(223,158,184);fill-rule:nonzero;"/>
+    </g>
+</svg>
