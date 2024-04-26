@@ -76,7 +76,7 @@ nav ul li a.current {
     overflow: hidden;
     position: relative;
     background-color: #df9eb8;
-    top: 80px;
+    top: 75px;
     z-index: 2;
     position: relative;
 }
